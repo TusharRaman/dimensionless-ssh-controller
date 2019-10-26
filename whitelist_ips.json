@@ -1,7 +1,7 @@
 { 
     "SSHPermission": [{ 
             "Username": "Tushar", 
-            "PublicIp": "114.143.119.112/32" 
+            "PublicIp": "106.193.106.7/32" 
         }, 
         { 
             "Username": "Tushar", 
